@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "pribadi-371012"
+  },
+  "targets": {
+    "pribadi-371012": {
+      "hosting": {
+        "pribadisql": [
+          "nuxt-farmly"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

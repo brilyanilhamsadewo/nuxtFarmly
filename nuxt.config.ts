@@ -7,4 +7,8 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+
+  nitro: {
+    preset: 'firebase'
+  }
 })
